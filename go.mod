@@ -25,4 +25,4 @@ require (
 	go.uber.org/atomic v1.6.0 // indirect
 )
 
-replace github.com/s8sg/goflow v0.1.0 => github.com/nextonr/goflow v1.0.2
+replace github.com/s8sg/goflow v0.1.0 => github.com/nextonr/goflow latest
